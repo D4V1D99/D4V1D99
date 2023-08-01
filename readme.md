@@ -1,4 +1,4 @@
-# Hola, yo soy David Menéndez 
+# Hola, soy David Menéndez 
 
 - Soy estudiante de ingeniería automática.
 - Estoy aprendiendo flutter.

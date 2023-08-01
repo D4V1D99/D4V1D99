@@ -1,8 +1,8 @@
 # David Menendez Acosta
 
-- I am a flutter developer.
 - I am learning flutter.
 
-## Social Networks
+## Contact with me
 
 - [Telegram](https://t.me/davidmenendez9901)
+- [Instagram](https://www.instagram.com/davidmenendez9901/)
